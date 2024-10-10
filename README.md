@@ -1,5 +1,3 @@
-# CIS-4400-HWs
-
 # NYC Public Schools Demographic Analysis (2017-2022)
 ## Overview
 This project analyzes the demographics and economic trends in New York City public schools from 2017 to 2022. The analysis focuses on exploring enrollment patterns, gender ratios, racial/ethnic distributions, and economic need across different boroughs using data from the NYC Open Data portal. The findings aim to uncover disparities and trends that can inform policy decisions and resource allocation within the NYC public school system.
