@@ -1,3 +1,11 @@
+# NYC Demographic Snapshot Analysis
+
+This project explores demographic data for NYC schools, focusing on key metrics like enrollment, economic need, and gender distribution.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hopeg0212/CIS-4400-HW/main?labpath=CIS+4400+HW2+-+NYC+Demographic_Snapshot.ipynb)
+
+Click the Binder badge above to interactively explore the notebook.
+
 # NYC Public Schools Demographic Analysis (2017-2022)
 ## Overview
 This project analyzes the demographics and economic trends in New York City public schools from 2017 to 2022. The analysis focuses on exploring enrollment patterns, gender ratios, racial/ethnic distributions, and economic need across different boroughs using data from the NYC Open Data portal. The findings aim to uncover disparities and trends that can inform policy decisions and resource allocation within the NYC public school system.
